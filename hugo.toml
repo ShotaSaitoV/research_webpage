@@ -1,4 +1,4 @@
-baseurl = "https://shotasaitov.github.io/reserch_webpage/"
+baseurl = "https://shotasaitov.github.io/research_webpage/"
 locale = "ja"
 theme = "terminal"
 pagination.pagerSize = 5
