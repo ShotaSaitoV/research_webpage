@@ -1,0 +1,63 @@
+baseurl = "https://shotasaitov.github.io/reserch_webpage/"
+locale = "ja"
+theme = "terminal"
+pagination.pagerSize = 5
+
+# Required for Chroma and the custom syntax highlighting.
+[markup.highlight]
+  noClasses = false
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 5
+  showLanguageSelector = false
+  fullWidthTheme = true
+  centerTheme = false
+  autoCover = true
+  showLastUpdated = true
+  dateFormat = "2006年01月02日 3:04:06 PM MST"
+
+[params.twitter]
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.ja]
+    label = "日本語"
+    title = "研究に関するコンテンツ"
+
+    [languages.ja.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "もっと見る"
+      readMore = "続きを読む"
+      readOtherPosts = "他のポストを読む"
+      newerPosts = "新しい記事"
+      olderPosts = "古い記事"
+      missingContentMessage = "ページがありません"
+      missingBackButtonLabel = "ホームに戻る"
+      minuteReadingTime = "分で読了"
+      words = "文字"
+
+      [languages.ja.params.logo]
+        logoText = "Neko-TechBlog"
+        logoHomeLink = "/"
+
+      [languages.ja.menu]
+        [[languages.ja.menu.main]]
+          identifier = "posts"
+          name = "記事一覧"
+          url = "/posts"
+          weight=10
+        [[languages.ja.menu.main]]
+          identifier = "about"
+          name = "自己紹介"
+          url = "/about"
+          weight=20
+        [[languages.ja.menu.main]]
+          identifier = "showcase"
+          name = "実績"
+          url = "/showcase"
+          weight=30
