@@ -43,7 +43,7 @@ pagination.pagerSize = 5
 
       [languages.ja.params.logo]
         logoText = "Neko-TechBlog"
-        logoHomeLink = "/"
+        logoHomeLink = "/research_webpage/"
 
       [languages.ja.menu]
         [[languages.ja.menu.main]]
