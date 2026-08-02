@@ -24,7 +24,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.ja]
     label = "日本語"
-    title = "研究に関するコンテンツ"
+    title = "ねこてっく"
 
     [languages.ja.params]
       subtitle = "A simple, retro theme for Hugo"
