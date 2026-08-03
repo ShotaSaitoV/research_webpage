@@ -14,9 +14,23 @@ draft: false
 </div>
 
 ## 技術スタック・研究領域
+- Webシステム 
+  - React(with TypeScript) , Next.js(with TypeScript)
+  - Go(Gorm) , Python(FastAPI)
+  - MySQL , PostgreSQL
+- その他プログラミング
+  - Java
+  - C++
+  - Arduino
 
 ## 趣味・特技
-
+- 自作PC
+  - 小学3年生で自宅のPCを触り始める
+  - 中学生の時にハードオフのJunk品で1台組上げる
+- 鉄道
+  - 特に切符鉄
+- 自動車・バイク
+- 音楽（楽器・バンド）
 ## 本人の略歴
 * **2017年 4月:** 横須賀市立横須賀総合高校 入学
 * **2020年 4月:** 東京交通短期大学 運輸科 入学
