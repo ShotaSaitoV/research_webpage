@@ -9,8 +9,12 @@ draft: false
 プロジェクトの static フォルダの中に images フォルダを作り、
 そこに自分の顔写真（profile.jpg）を配置してください。
 -->
+齋藤（さいとう）
+東京情報大学大学院博士前期課程
+
 {{< figure src="/images/HigashiNarita.jpg" width="500" >}}
 
+---
 ## 技術スタック・研究領域
 - Webシステム 
   - React(with TypeScript) , Next.js(with TypeScript)
