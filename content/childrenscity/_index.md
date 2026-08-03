@@ -1,6 +1,6 @@
 ---
-date = '2026-08-03T17:04:37+09:00'
-title = 'Childrenscity'
+date : '2026-08-03T17:04:37+09:00'
+title : 'Childrenscity'
 ---
 ## 四街道こどものまちについて
 
