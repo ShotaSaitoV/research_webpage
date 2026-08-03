@@ -385,3 +385,13 @@ th,
 button {
   font-weight: 600;
 }
+/* すべての画像から枠線を消す ＋ 右クリック・ドラッグを禁止する */
+img, .figure img {
+    border: none !important;
+    box-shadow: none !important;
+    
+    /* 以下を追加 */
+    pointer-events: none;       /* 右クリック、タップ、クリックをすべて無効化 */
+    -webkit-user-drag: none;    /* 画像をドラッグして別タブに持っていくのを禁止 */
+    user-select: none;          /* 画像の選択を禁止 */
+}
