@@ -58,12 +58,12 @@ pagination.pagerSize = 5
           url = "/about"
           weight=20
         [[languages.ja.menu.main]]
-          identifier = "about"
+          identifier = "showcase"
           name = "実　　績"
           url = "/showcase"
           weight=30
         [[languages.ja.menu.main]]
-          identifier = "about"
+          identifier = "childrenscity"
           name = "こどものまち"
           url = "/childrenscity"
           weight=40
