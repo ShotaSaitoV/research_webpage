@@ -10,7 +10,7 @@ draft: false
 そこに自分の顔写真（profile.jpg）を配置してください。
 -->
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="/images/profile.jpg" alt="プロフィール画像" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <img src="/images/HigashiNarita.jpg" style="width: 180px; height: 180px; object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </div>
 
 ## 技術スタック・研究領域
