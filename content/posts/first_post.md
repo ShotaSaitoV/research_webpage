@@ -1,5 +1,5 @@
 +++
-title = "First_post"
+title = "Hello,World"
 date = "2026-08-02T10:59:01+09:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
