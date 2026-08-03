@@ -1,12 +1,9 @@
----
-title: "実績"
-draft: false
-build:
-  render: never
-  list: never
-  publishResources: false
----
-研究成果や参加プロジェクトについて
++++
+date = '2026-08-04T07:46:16+09:00'
+draft = true
+title = '実績'
++++
+
+# 学会発表やジャーナル、参加プロジェクトについて
 
 ---
-
