@@ -1,6 +1,5 @@
 +++
 date = '2026-08-03T17:04:37+09:00'
-draft = true
 title = 'Childrenscity'
 +++
 ## 四街道こどものまちについて
