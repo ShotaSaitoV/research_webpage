@@ -9,9 +9,7 @@ draft: false
 プロジェクトの static フォルダの中に images フォルダを作り、
 そこに自分の顔写真（profile.jpg）を配置してください。
 -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="/images/HigashiNarita.jpg" style="width: 180px; height: 180px; object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-</div>
+![本人近影](/images/HigashiNarita.jpg)
 
 ## 技術スタック・研究領域
 - Webシステム 
