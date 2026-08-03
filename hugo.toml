@@ -59,7 +59,7 @@ pagination.pagerSize = 5
           weight=20
         [[languages.ja.menu.main]]
           identifier = "showcase"
-          name = "実　　績"
+          name = "実績"
           url = "/showcase"
           weight=30
         [[languages.ja.menu.main]]
