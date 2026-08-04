@@ -28,20 +28,13 @@ draft: false
 
 ## 趣味・特技
 ### PC
-<a href="https://shotasaitov.github.io/research_webpage/computer/" target="_blank" rel="noopener noreferrer">
-  <button>コンピュータ関連</button>
-</a>
-### 鉄道 
-<a href="https://shotasaitov.github.io/research_webpage/train/" target="_blank" rel="noopener noreferrer">
-  <button>鉄道関連</button>
-</a>
-
+[ー＞コンピュータ関連](https://shotasaitov.github.io/research_webpage/computer/)
+### 鉄道
+[ー＞鉄道関連](https://shotasaitov.github.io/research_webpage/train/)
 ### 自動車・バイク
 ### 音楽（楽器・バンド）
-<a href="https://shotasaitov.github.io/research_webpage/music/" target="_blank" rel="noopener noreferrer">
-  <button>音楽遍歴</button>
-</a>
-<br>
+[ー＞音楽遍歴](https://shotasaitov.github.io/research_webpage/music/)
+
 ---
 
 ## 本人の略歴
