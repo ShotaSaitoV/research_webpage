@@ -67,4 +67,8 @@ pagination.pagerSize = 5
           name = "こどものまち"
           url = "/childrenscity"
           weight=40
-
+        [[languages.ja.menu.main]]
+          identifier="system"
+          name=開発したシステム
+          url="/system"
+          weight=50
