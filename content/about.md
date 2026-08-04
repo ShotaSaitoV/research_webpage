@@ -23,24 +23,25 @@ draft: false
 <a href="https://shotasaitov.github.io/research_webpage/system/">
   <button>開発したシステムページ</button>
 </a>
-
+<br>
 ---
 
 ## 趣味・特技
-- PC
+### PC
 <a href="https://shotasaitov.github.io/research_webpage/computer/" target="_blank" rel="noopener noreferrer">
   <button>コンピュータ関連</button>
 </a>
-- 鉄道 
+### 鉄道 
 <a href="https://shotasaitov.github.io/research_webpage/train/" target="_blank" rel="noopener noreferrer">
   <button>鉄道関連</button>
 </a>
 
-- 自動車・バイク
-- 音楽（楽器・バンド）
+### 自動車・バイク
+### 音楽（楽器・バンド）
 <a href="https://shotasaitov.github.io/research_webpage/music/" target="_blank" rel="noopener noreferrer">
   <button>音楽遍歴</button>
 </a>
+<br>
 ---
 
 ## 本人の略歴
