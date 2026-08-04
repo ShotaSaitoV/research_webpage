@@ -24,15 +24,15 @@ draft: false
   <button>開発したシステムページ</button>
 </a>
 <br>
+
 ---
 
 ## 趣味・特技
-### PC
+
 [ー＞コンピュータ関連](https://shotasaitov.github.io/research_webpage/computer/)
-### 鉄道
+
 [ー＞鉄道関連](https://shotasaitov.github.io/research_webpage/train/)
-### 自動車・バイク
-### 音楽（楽器・バンド）
+
 [ー＞音楽遍歴](https://shotasaitov.github.io/research_webpage/music/)
 
 ---
