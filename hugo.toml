@@ -7,7 +7,8 @@ pagination.pagerSize = 5
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
   noClasses = false
-
+[markup.goldmark.renderer]
+  unsafe = true
 [params]
   contentTypeName = "posts"
   showMenuItems = 5
