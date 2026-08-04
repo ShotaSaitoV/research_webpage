@@ -63,12 +63,7 @@ pagination.pagerSize = 5
           url = "/showcase"
           weight=30
         [[languages.ja.menu.main]]
-          identifier = "childrenscity"
-          name = "こどものまち"
-          url = "/childrenscity"
-          weight=40
-        [[languages.ja.menu.main]]
           identifier="system"
           name="開発したシステム"
           url="/system"
-          weight=50
+          weight=40
