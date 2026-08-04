@@ -11,6 +11,11 @@ draft: false
 
 ---
 ## 技術スタック・研究領域
+
+<a href="https://shotasaitov.github.io/research_webpage/system/">
+  <button>開発したシステムページ</button>
+</a>
+
 - Webシステム 
   - React(with TypeScript) , Next.js(with TypeScript)
   - Go(Gorm) , Python(FastAPI)
@@ -19,11 +24,6 @@ draft: false
   - Java
   - C++
   - Arduino
-
-<a href="https://shotasaitov.github.io/research_webpage/system/">
-  <button>開発したシステムページ</button>
-</a>
-<br>
 
 ---
 
