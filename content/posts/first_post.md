@@ -1,10 +1,6 @@
 +++
 title = "Hello,World"
 date = "2026-08-02T10:59:01+09:00"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
-cover = ""
 tags = ["AA", "流石兄弟"]
 keywords = ["", ""]
 description = ""
@@ -12,6 +8,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 +++
+
 ## Hello,World!!!
 　　　　　　　　　∧＿∧   
 　　　 ∧＿∧ 　（´<_｀ 　）　流石だよな俺ら。  
@@ -20,5 +17,6 @@ hideComments = false
 　　/　　 　/￣￣￣￣/　|  
 ＿_(__ﾆつ/　 FMV　 / .| .|＿＿＿＿  
 　　　 ＼/＿＿＿＿/　（u　⊃   
-CD/CIはまだいまいち
+
+開発者はThinkPadユーザ（）
 
